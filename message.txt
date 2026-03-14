@@ -1,0 +1,160 @@
+<!DOCTYPE>
+<html>
+<head>
+<title>History Page</title>
+</head>
+<body bgcolor="orange">
+
+<h1><center>Dinagyang Festival</center></h1>
+
+<!-- ===== NAVIGATION ===== -->
+
+<hr width="100%" size="5" color="#FFEA00">
+
+<center>
+<table cellpadding="5" cellspacing="0">
+  <tr>
+    <td align="center">
+      <a href="Main D.html">
+        <img src="touhouyn.gif" width="15" height="15">
+        <font face="Courier New"><strong>Main Page</strong></font>
+        <img src="touhouyn.gif" width="15" height="15">
+      </a>
+    </td>
+    <td width="10">|</td>
+
+    <td align="center">
+      <a href="History Page D.html">
+        <img src="touhouyn.gif" width="15" height="15">
+        <font face="Courier New"><strong>History Page</font>
+		<img src="touhouyn.gif" width="15" height="15">
+      </a>
+    </td>
+    <td width="10">|</td>
+
+    <td align="center">
+      <a href="Events Page D.html">
+        <img src="touhouyn.gif" width="15" height="15">
+        <font face="Courier New"><strong>Events Page</strong></font>
+		<img src="touhouyn.gif" width="15" height="15">
+      </a>
+    </td>
+    <td width="10">|</td>
+
+    <td align="center">
+      <a href="Gallery Page D.html">
+        <img src="touhouyn.gif" width="15" height="15">
+        <font face="Courier New"><strong>Gallery Page</strong></font>
+		<img src="touhouyn.gif" width="15" height="15">
+      </a>
+    </td>
+  </tr>
+</table>
+</center>
+
+<hr width="100%" size="5" color="#DC143C">
+
+<!-- ===== NAVIGATION ===== -->
+
+
+<br>
+
+<center>
+  <font face="Times New Roman" size="8">Dinagyang Festival Gallery</font>
+</center>
+
+
+<center>
+  <table cellpadding="10" cellspacing="10">
+    <tr>
+      <td><img src="p1.jpg" width="360" height="300"></td>
+      <td><img src="p2.jpg" width="360" height="300"></td>
+      <td><img src="p3.jpg" width="360" height="300"></td>
+    </tr>
+    <tr>
+      <td><img src="p4.jpg" width="360" height="300"></td>
+      <td><img src="p5.jpg" width="360" height="300"></td>
+      <td><img src="p6.jpg" width="360" height="300"></td>
+    </tr>
+  </table>
+</center>
+
+
+<br><br>
+
+<center>
+  <table width="40%">
+    <tr>
+      <td align="justify" valign="top">
+        <ul>
+			<font size="6">
+          <center>More Upcoming soon...</center>
+			</font>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</center>
+
+
+<br>
+<br>
+<br>
+
+<!-- ===== NAVIGATION ===== -->
+
+<hr width="100%" size="5" color="#FFEA00">
+
+<center>
+<table cellpadding="5" cellspacing="0">
+  <tr>
+    <td align="center">
+      <a href="Main D.html">
+        <img src="touhouyn.gif" width="15" height="15">
+        <font face="Courier New"><strong>Main Page</strong></font>
+        <img src="touhouyn.gif" width="15" height="15">
+      </a>
+    </td>
+    <td width="10">|</td>
+
+    <td align="center">
+      <a href="History Page D.html">
+        <img src="touhouyn.gif" width="15" height="15">
+        <font face="Courier New"><strong>History Page</font>
+		<img src="touhouyn.gif" width="15" height="15">
+      </a>
+    </td>
+    <td width="10">|</td>
+
+    <td align="center">
+      <a href="Events Page D.html">
+        <img src="touhouyn.gif" width="15" height="15">
+        <font face="Courier New"><strong>Events Page</strong></font>
+		<img src="touhouyn.gif" width="15" height="15">
+      </a>
+    </td>
+    <td width="10">|</td>
+
+    <td align="center">
+      <a href="Gallery Page D.html">
+        <img src="touhouyn.gif" width="15" height="15">
+        <font face="Courier New"><strong>Gallery Page</strong></font>
+		<img src="touhouyn.gif" width="15" height="15">
+      </a>
+    </td>
+  </tr>
+</table>
+</center>
+
+<hr width="100%" size="5" color="#DC143C">
+
+<!-- ===== NAVIGATION ===== -->
+
+<center>
+<p>For more Inquiries, go to:<a href="https://philippines.travel/events/dinagyang-festival/">Dinagyang Festival</a></p>
+<p>Tel. No. 09197629099</p>
+<p>Email: <a href="mailto:dinagyangiloilo2026@gmail.com">This Email</a></p>
+</center>
+
+</body>
+</html>
